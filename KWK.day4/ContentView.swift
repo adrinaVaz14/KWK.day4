@@ -21,7 +21,7 @@ struct ContentView: View {
                 .multilineTextAlignment(.center)
                 .border(Color.gray, width: 1)
             
-            Button("Submit Name") {
+            Button("Submit Name!") {
                 textTitle = "Welcome, \(name)"
                 
                 
